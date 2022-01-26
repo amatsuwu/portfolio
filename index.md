@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./namecard.css">
+  <title>Document</title>
+</head>
+<body>
+  <div class="namecard">
+
+    <div style="display: flex;align-items:center;">
+      <div class="egn"><img src="./ts2.png" alt="tslogo"></a></div>  
+      <div class="name"> 吳宜津<br>CarrieWu</div>
+    </div>
+    <div class="otherinfo">carriewu@tstartel.com
+      <br>0971711731
+      
+    </div>
+   
+  </div>  
+</body>
+</html>
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/amatsuwu/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
